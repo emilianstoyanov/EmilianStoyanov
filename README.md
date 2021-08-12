@@ -1,4 +1,4 @@
-<h2> Hi, I'm Emilian Stoyanov! <img src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Emilian Stoyanov! <img src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="50"></h2>
 <!--
 **EmilianStoyanov/EmilianStoyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
