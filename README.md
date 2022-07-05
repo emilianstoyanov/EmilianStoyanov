@@ -8,16 +8,18 @@
 
 
 
-<p align="center"> 
-<img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
-</p>
-<hr>
 
-<!-- START NEW SECTION -->
 
-<!-- START NEW SECTION -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
-  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
-</p>
+
+
+
+
+
+
+
+
+
+
+
+ ![Snake animation](https://github.com/GusCabraal/GusCabraal/blob/output/github-contribution-grid-snake.svg)
