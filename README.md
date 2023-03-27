@@ -7,7 +7,6 @@
   
   ## :hammer_and_wrench: Technologies & Tools that I have used
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://cdn.onlinewebfonts.com/svg/img_437027.png" alt="flask" width="40" height="40"/>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -23,6 +22,6 @@
 
 
 
- ![Snake animation](https://github.com/GusCabraal/GusCabraal/blob/output/github-contribution-grid-snake.svg)
+
 
  
