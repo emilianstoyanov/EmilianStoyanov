@@ -4,9 +4,6 @@
 ### Hi there 👋
 
 
-
-
-
   
   ## :hammer_and_wrench: Technologies & Tools that I have used
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -26,11 +23,9 @@
 
 
 
-
-
-
-
-
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilianstoyanov&layout=compact" height="165px" >
+</p>
 
 
  ![Snake animation](https://github.com/GusCabraal/GusCabraal/blob/output/github-contribution-grid-snake.svg)
